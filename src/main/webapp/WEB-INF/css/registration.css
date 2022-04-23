@@ -1,0 +1,12 @@
+body {
+    background-color: #151515;
+}
+
+span, form, h3, label {
+    color: aliceblue;
+}
+
+input {
+    display: block;
+    width: 100%;
+}

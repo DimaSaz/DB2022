@@ -1,0 +1,7 @@
+body {
+    background-color: #151515;
+}
+
+span, form, h3, h5, label {
+    color: aliceblue;
+}
